@@ -1,0 +1,222 @@
+[
+    {
+        "id":"Vodka Smirnoff Watermelon",
+        "titulo": "Vodka Smirnoff Watermelon",
+        "imagen":"./img/Smirnoff-Watermelon-Vodka-700-ml-ML.png",
+        "categoria": {
+            "nombre": "Vodkas",
+            "id":"vodkas"
+        },
+        "precio": 1320
+    },
+    {
+        "id":"Gancia Americano",
+        "titulo": "Gancia Americano",
+        "imagen":"./img/gancia.png",
+        "categoria": {
+            "nombre": "Aperitivos",
+            "id":"Aperitivos"
+        },
+        "precio": 1120
+    },
+    {
+        "id":"Campari Aperitivo",
+        "titulo": "Campari Aperitivo",
+        "imagen":"./img/campari.jpeg",
+        "categoria": {
+            "nombre": "Aperitivos",
+            "id":"Aperitivos"
+        },
+        "precio": 1240
+    },
+    {
+        "id":"Vino Dada",
+        "titulo": "Vino Dada",
+        "imagen":"./img/Dada.png",
+        "categoria": {
+            "nombre": "Vinos",
+            "id":"Vinos"
+        },
+        "precio": 1160
+    },
+    {
+        "id":"Sernova Wild Barries",
+        "titulo": "Sernova Wild Barries 750ml",
+        "imagen":"./img/sernova-wild-berries.jpg",
+        "categoria": {
+            "nombre": "Vodkas",
+            "id":"vodkas"
+        },
+        "precio": 1607
+    },
+    {
+        "id":"Vino Tinto Estancia Mendodza",
+        "titulo": "Vino Estancia Mendodza Malbec",
+        "imagen":"./img/Vino Estancia Mendoza.jpeg",
+        "categoria": {
+            "nombre": "Vinos",
+            "id":"Vinos"
+        },
+        "precio": 810
+    },
+    {
+        "id":"Vino blanco Chacabuco Chenin Dulce",
+        "titulo": "Vino blanco Chacabuco Chenin Dulce",
+        "imagen":"./img/vino blanco chacabuco chenin dulce.png",
+        "categoria": {
+            "nombre": "Vinos",
+            "id":"Vinos"
+        },
+        "precio": 1150
+    },
+    {
+        "id":"Fernet Branca",
+        "titulo": "Fernet Branca",
+        "imagen":"./img/fernet branca.png",
+        "categoria": {
+            "nombre": "Aperitivos",
+            "id":"Aperitivos"
+        },
+        "precio": 500
+    },
+    {
+        "id":"Vino Blanco Estancia Mendodza Chardonay Chenin",
+        "titulo": "Vino Blanco Estancia Mendodza Chardonay Chenin 750ml",
+        "imagen":"./img/vino blanco Estancia Mendoza Chardonnay.jpg",
+        "categoria": {
+            "nombre": "Vinos",
+            "id":"Vinos"
+        },
+        "precio": 731 
+    },
+    {
+        "id":"Fernet Branca Menta",
+        "titulo": "Fernet Branca Menta",
+        "imagen":"./img/fernet branca menta.png",
+        "categoria": {
+            "nombre": "Aperitivos",
+            "id":"Aperitivos"
+        },
+        "precio": 500
+    },
+    {
+        "id":"Jack Daniel's Old",
+        "titulo": "Jack Daniel's Old", 
+        "imagen":"./img/JackDaniel's old.png",
+        "categoria": {
+            "nombre": "Whiskys",
+            "id":"Whiskys"
+        },
+        "precio": 10500
+    },
+    {
+        "id":"Cerveza Heineken",
+        "titulo": "Cerveza Heineken",
+        "imagen":"./img/cerveza heineken 1L.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id":"Cervezas"
+        },
+        "precio": 560
+    },
+    {
+        "id":"Jonnhie Walker Red Label",
+        "titulo": "Jonnhie Walker Red Label 750ml", 
+        "imagen":"./img/johnnie-walker-red-label-750ml1.jpg",
+        "categoria": {
+            "nombre": "Whiskys",
+            "id":"Whiskys"
+        },
+        "precio": 6570
+    },
+    {
+        "id":"Sky",
+        "titulo": "Sky 750cc",
+        "imagen":"./img/vodka sky.jpg",
+        "categoria": {
+            "nombre": "Vodkas",
+            "id":"vodkas"
+        },
+        "precio": 1614
+    },
+    {
+        "id":"Jonnhie Walker Black Label",
+        "titulo": "Jonnhie Walker Black Label 750ml", 
+        "imagen":"./img/Jonnhie Walker Black Label.jpg",
+        "categoria": {
+            "nombre": "Whiskys",
+            "id":"Whiskys"
+        },
+        "precio": 11569
+    },
+    {
+        "id": "Cerveza Stella Artois",
+        "titulo": "Cerveza Stella Artois",
+        "imagen":"./img/cerveza stella artois.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id":"Cervezas"
+        },
+        "precio": 580
+    },
+    {
+        "id":"Cerveza Patagonia Vera IPA",
+        "titulo": "Cerveza Patagonia Vera IPA",
+        "imagen":"./img/cerveza patagonia vera ipa lata.png",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id":"Cervezas"
+        },
+        "precio": 319
+    },
+    {
+        "id":"Sernova Vodka",
+        "titulo": "Sernova Vodka",
+        "imagen":"./img/vodka sernova.jpg",
+        "categoria": {
+            "nombre": "Vodkas",
+            "id":"vodkas"
+        },
+        "precio": 1369
+    },
+    {
+        "id":"Cerveza Amstel Lager",
+        "titulo": "Cerveza Amstel Lager",
+        "imagen":"./img/cerveza amstel lager lata.png",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id":"Cervezas"
+        },
+        "precio": 215
+    },
+     {
+        "id":"Jack Daniels Honey",
+        "titulo": "Jack Daniels Honey 750ml", 
+        "imagen":"./img/Jack Daniels Honey.jpg",
+        "categoria": {
+            "nombre": "Whiskys",
+            "id":"Whiskys"
+        },
+        "precio": 11017
+    },
+    {
+        "id":"Vodka Smirnoff Orange",
+        "titulo": "Vodka Smirnoff Orange",
+        "imagen":"./img/Smirnoff Orange 1L.jpg",
+        "categoria": {
+            "nombre": "Vodkas",
+            "id":"vodkas"
+        },
+        "precio": 1320
+    },
+    {
+        "id":"Smirnoff Original",
+        "titulo": "Smirnoff Original",
+        "imagen":"./img/smirnoff original.jpg",
+        "categoria": {
+            "nombre": "Vodkas",
+            "id":"vodkas"
+        },
+        "precio": 1320
+    }
+ ]
